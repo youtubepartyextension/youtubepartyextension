@@ -80,6 +80,7 @@ nav.navbar.navbar-expand-lg.bg-body-tertiary {
 }
 .button_five2 {
     margin: 40px 0px 0px 20px;
+    padding-top: 10px;
 }
 .btn_five2 {
     padding: 10px 70px 10px 70px;
@@ -105,6 +106,7 @@ nav.navbar.navbar-expand-lg.bg-body-tertiary {
 .content2 h2 {
     font-size: 33px;
     padding: 0px 0px;
+    font-weight: 600;
 }
 
 ul.kau {
@@ -150,6 +152,7 @@ ul {
         font-size: 38px;
         padding: 0px 0px 0px 0px;
         text-align: left;
+        font-weight: 600;
     }
 .content_third h2{
             

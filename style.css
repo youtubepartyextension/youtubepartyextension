@@ -56,9 +56,7 @@ nav.navbar.navbar-expand-lg.bg-body-tertiary {
     background-color: #f1f1f1;
     font-family: Arial, Helvetica, sans-serif;
 }
-.paragraph_break {
-    margin: 7px 1px 0px 14px;
-}
+
 .dummy {
     padding: 10px 0px 10px 0px;
     text-align: left;
@@ -97,7 +95,13 @@ nav.navbar.navbar-expand-lg.bg-body-tertiary {
     background-color: rgba(1, 3, 36, 0.445);
     color: #FFF;
 }
-
+.content_imagae {
+    padding-top: 20px;
+}
+.paragraph_break {
+    margin: 0px 1px 0px 14px;
+    padding-top: 15px;
+}
 .content2 h2 {
     font-size: 33px;
     padding: 0px 0px;
